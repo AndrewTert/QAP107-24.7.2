@@ -14,7 +14,7 @@
     valid_email = "abyrvalg@mumu.com"
     valid_pass = "123323"
     valid_email_second_account = "abyrvalg@mumu1.com"
-
+---
 В рамках домашней работы были разработаны методы:
 
     add_new_pet_simple
